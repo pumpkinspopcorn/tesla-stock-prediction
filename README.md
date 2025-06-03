@@ -67,7 +67,6 @@ Epoch 180/200  Current loss: 0.01604599691927433
 ![image](https://github.com/user-attachments/assets/9a9c68fb-5840-4c53-bec1-dad508788c25)
 
 You might or might not get a 1-d array error but it won't matter. The graph will be plotted anyways.
-From the graph given above, it can be clearly seen that there is a sudden huge rise in the TESLA stock in around last 50 days and that the model that was created, performed good.
 
 
 
